@@ -3,7 +3,7 @@
 Client: C#，Python，OpenCV，Dobot  
 Hardware:鏡頭＊1，機械手臂＊2，棋盤＊1，電腦＊1  
 Panelists:[吳勁緯](https://github.com/wendellgithub0206 "link")，[蔣善澤]( "link")  
-guiding mentor:[林世崧]()
+guiding mentor:[林世崧](https://github.com/pccusslin0629 "link")
 ## AI下棋機器人之研製
 主要分為三部分以及最終整合
 * [棋藝演算法](https://github.com/wendellgithub0206/PGP/tree/main/%E6%A3%8B%E8%97%9D%E6%BC%94%E7%AE%97%E6%B3%95 "link")
