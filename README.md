@@ -1,6 +1,6 @@
 # **中國文化大學 畢業專題介紹**
 利用機台上的鏡頭識別棋盤data，引導data傳回程式演算法電腦判斷下一步，再將結果傳至機械手臂配合鏡頭做出預期動作。  
-Client: C#，Python，OpenCV，Dobot
+Client: C#，Python，OpenCV，Dobot  
 Hardware:鏡頭＊1，機械手臂＊2，棋盤＊1，電腦＊1
 ## AI下棋機器人之研製
 主要分為三部分以及最終整合
