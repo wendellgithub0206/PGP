@@ -8,4 +8,7 @@ Hardware:鏡頭＊1，機械手臂＊2，棋盤＊1，電腦＊1
 * [影像處理](https://github.com/wendellgithub0206/PGP/tree/main/%E5%BD%B1%E5%83%8F%E8%99%95%E7%90%86 "link")
 * [機械手臂](https://github.com/wendellgithub0206/PGP/tree/main/%E6%A9%9F%E6%A2%B0%E6%89%8B%E8%87%82%E6%8E%A7%E5%88%B6 "link")
 * [整合](https://github.com/wendellgithub0206/PGP/tree/main/%E6%95%B4%E5%90%88 "link")
+## 棋藝演算法
+## 影像處理
+## 機械手臂
 
