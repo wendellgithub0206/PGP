@@ -11,6 +11,9 @@ guiding mentor:[林世崧](https://github.com/pccusslin0629 "link")
 * [機械手臂](https://github.com/wendellgithub0206/PGP/tree/main/%E6%A9%9F%E6%A2%B0%E6%89%8B%E8%87%82%E6%8E%A7%E5%88%B6 "link")
 * [整合](https://github.com/wendellgithub0206/PGP/tree/main/%E6%95%B4%E5%90%88 "link")
 ## 棋藝演算法
+**主要使用以下演算法**  
+* MiniMax演算法 (MinMax)  
+*Alpha-Beta 剪枝法 (α - β pruning)
 待更新介紹及圖片...
 ## 影像處理
 待更新介紹及圖片...
