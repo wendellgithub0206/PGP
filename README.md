@@ -13,7 +13,7 @@ guiding mentor:[林世崧](https://github.com/pccusslin0629 "link")
 ## 棋藝演算法
 **主要使用以下演算法**  
 * MiniMax演算法 (MinMax)  
-*Alpha-Beta 剪枝法 (α - β pruning)
+* Alpha-Beta 剪枝法 (α - β pruning)
 待更新介紹及圖片...
 ## 影像處理
 待更新介紹及圖片...
