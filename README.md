@@ -10,7 +10,7 @@ guiding mentor:[林世崧](https://github.com/pccusslin0629 "link")
 * [影像處理](https://github.com/wendellgithub0206/PGP/tree/main/%E5%BD%B1%E5%83%8F%E8%99%95%E7%90%86 "link")
 * [機械手臂](https://github.com/wendellgithub0206/PGP/tree/main/%E6%A9%9F%E6%A2%B0%E6%89%8B%E8%87%82%E6%8E%A7%E5%88%B6 "link")
 ## AI
-*強化式學習<br/>
+**強化式學習**
 強化式學習(Reinforcement learning)和已大量資料為基礎的監督式學習非監督式學習不同，期目的是為了在特定環境中採取適當的動作。比如自動駕駛就是強化式學習的應用。 
 強化式學習(Reinforcement learning)是透過代理人(agent)根據環境狀態(environment)採取動作(action)已獲得更多回饋值(reward)的方法，此法與監督非監督式學習不同，在於不依靠訓練資料，只靠代理人本身已試誤法來進行學習。<br/>
 *殘差網路(ResNet) <br/>
