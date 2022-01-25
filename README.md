@@ -37,4 +37,9 @@ guiding mentor:[林世崧](https://github.com/pccusslin0629 "link")
 四子棋適用於6*7的棋盤，而實際影像中框出的影像為640*480而格式為15*15棋盤，只要做3步驟就能辨識並且將任意自訂棋盤從圖片分割出來，第一步先根據棋盤顏色設定顏色的上限與下限並且利用掩模(mask)屏蔽不屬於此顏色上下限範圍的區域，第二步覆蓋屬於此顏色上下限範圍卻不是我們所需要的區域，第三步畫出輪廓確認此區域是否為我們所需要的正確區域在並且擷取出來。
 ## 機械手臂
 使用Dobot Magician提供的DobotVisionStudio開發套件能簡單的實做機器人運動之控制。
-
+## Google Colab
+Google Colab是一個基於 Jupyter Notebook 的免費CPU虛擬機，透過瀏覽器即可編寫程式，當離開瀏覽器操作畫面，虛擬機上的操作資料都被清空，所以使用者不需要擔心操作不慎搞壞機器。除了資料存至雲端虛擬機上之外，還可以連接Google Drive雲端硬碟，將訓練完成的AI模型或資料科學處理的資料進行儲存，而Google Colab擁有以下幾個特點：<br/>
+1不需任何設定：瀏覽器開起Google Colab，連線完成即建立玩虛擬機，就可以使用Google Colab的功能。
+2免費使用 GPU或TPU：Colab中可選用的GPU通常包括Nvidia K80，T4，P4和P100，但使用者不能選擇使用哪種類型的GPU，由於免費使用的關係，Colab無法保證資源，會依據時間和使用者有浮動，筆記本最長可執行	12小時；如果一定需要使用GPU，可以選擇升級為付費版本Colab Pro，每月支付9美金，優先存取更快速的 GPU 和 TPU。
+3共用功能：Colab筆記本是存在Google Drive，方便管理ipynb檔案，也可以將程式檔案ipynb下載分享給其他人使用。
+4開啟GitHub筆記本：透過開啟筆記本功能，可以點選GitHub選項，貼上你從GitHub看到的ipynb檔案網址，就可以在Google Colab開啟檔案或複製至自身的Google Drive。
