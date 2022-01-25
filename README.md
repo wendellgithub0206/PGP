@@ -39,7 +39,7 @@ guiding mentor:[林世崧](https://github.com/pccusslin0629 "link")
 使用Dobot Magician提供的DobotVisionStudio開發套件能簡單的實做機器人運動之控制。
 ## Google Colab
 Google Colab是一個基於 Jupyter Notebook 的免費CPU虛擬機，透過瀏覽器即可編寫程式，當離開瀏覽器操作畫面，虛擬機上的操作資料都被清空，所以使用者不需要擔心操作不慎搞壞機器。除了資料存至雲端虛擬機上之外，還可以連接Google Drive雲端硬碟，將訓練完成的AI模型或資料科學處理的資料進行儲存，而Google Colab擁有以下幾個特點：<br/>
-1不需任何設定：瀏覽器開起Google Colab，連線完成即建立玩虛擬機，就可以使用Google Colab的功能。
-2免費使用 GPU或TPU：Colab中可選用的GPU通常包括Nvidia K80，T4，P4和P100，但使用者不能選擇使用哪種類型的GPU，由於免費使用的關係，Colab無法保證資源，會依據時間和使用者有浮動，筆記本最長可執行	12小時；如果一定需要使用GPU，可以選擇升級為付費版本Colab Pro，每月支付9美金，優先存取更快速的 GPU 和 TPU。
-3共用功能：Colab筆記本是存在Google Drive，方便管理ipynb檔案，也可以將程式檔案ipynb下載分享給其他人使用。
-4開啟GitHub筆記本：透過開啟筆記本功能，可以點選GitHub選項，貼上你從GitHub看到的ipynb檔案網址，就可以在Google Colab開啟檔案或複製至自身的Google Drive。
+1不需任何設定：瀏覽器開起Google Colab，連線完成即建立玩虛擬機，就可以使用Google Colab的功能。<br>
+2免費使用 GPU或TPU：Colab中可選用的GPU通常包括Nvidia K80，T4，P4和P100，但使用者不能選擇使用哪種類型的GPU，由於免費使用的關係，Colab無法保證資源，會依據時間和使用者有浮動，筆記本最長可執行	12小時；如果一定需要使用GPU，可以選擇升級為付費版本Colab Pro，每月支付9美金，優先存取更快速的 GPU 和 TPU。<br>
+3共用功能：Colab筆記本是存在Google Drive，方便管理ipynb檔案，也可以將程式檔案ipynb下載分享給其他人使用。<br>
+4開啟GitHub筆記本：透過開啟筆記本功能，可以點選GitHub選項，貼上你從GitHub看到的ipynb檔案網址，就可以在Google Colab開啟檔案或複製至自身的Google Drive。<br>
