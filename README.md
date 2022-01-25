@@ -6,7 +6,7 @@ Panelists:[吳勁緯](https://github.com/wendellgithub0206 "link")，[蔣善澤]
 guiding mentor:[林世崧](https://github.com/pccusslin0629 "link")
 ## AI下棋機器人之研製
 主要分為三部分以及最終整合
-* [棋藝演算法](https://github.com/wendellgithub0206/PGP/tree/main/%E6%A3%8B%E8%97%9D%E6%BC%94%E7%AE%97%E6%B3%95 "link")
+* [棋藝主程式（四子棋、五子棋）](https://github.com/wendellgithub0206/PGP/tree/main/%E6%A3%8B%E8%97%9D%E6%BC%94%E7%AE%97%E6%B3%95 "link")
 * [影像處理](https://github.com/wendellgithub0206/PGP/tree/main/%E5%BD%B1%E5%83%8F%E8%99%95%E7%90%86 "link")
 * [機械手臂](https://github.com/wendellgithub0206/PGP/tree/main/%E6%A9%9F%E6%A2%B0%E6%89%8B%E8%87%82%E6%8E%A7%E5%88%B6 "link")
 ## AI
