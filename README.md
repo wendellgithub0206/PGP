@@ -16,13 +16,13 @@ guiding mentor:[林世崧](https://github.com/pccusslin0629 "link")
 * 強化式學習<br/>
 以大量資料為基礎的監督式學習非監督式學習不同，期目的是為了在特定環境中採取適當的動作。比如自動駕駛就是強化式學習的應用。 
 強化式學習(Reinforcement learning)是透過代理人(agent)根據環境狀態(environment)採取動作(action)已獲得更多回饋值(reward)的方法，此法與監督非監督式學習不同，在於不依靠訓練資料，只靠代理人本身已試誤法來進行學習。<br/>
-![image](https://github.com/wendellgithub0206/PGP/blob/main/%E6%AE%98%E5%B7%AE%E7%B6%B2%E8%B7%AF.png)
+![image](https://github.com/wendellgithub0206/PGP/blob/main/%E5%BC%B7%E5%8C%96%E5%BC%8F%E5%AD%B8%E7%BF%92.png)
 * 卷積層網路<br/>
 
 * 殘差網路(ResNet) <br/>
 在神經網路中我們可以透過加深層數來提取更複雜的特徵，但是當神經網路的深度達到某個程度時，訓練資料的準確率會上升然後達到飽和，然後迅速下降，就是光訓練資料的成效就很差。 
 殘差網路第一次出現是在2015年的ImageNet影像辨識競賽，已超高準確率獲得當年冠軍。殘差網路就是使用了152層網路結構，超過百層的殘差網路卻不會降低準確率的關鍵在於其特殊的殘差塊(Residual block)結構，設計一條捷徑來讓淺層的網路也能得到較有效果的訓練使得在深度較深的模型在做反向傳播時不會因傳遞太多層而導致梯度嚴重下降，使得我們訓練更深層的神經網路，獲得更好的成果。
-
+![image](https://github.com/wendellgithub0206/PGP/blob/main/%E6%AE%98%E5%B7%AE%E7%B6%B2%E8%B7%AF.png)
 
 ## 棋藝演算法
 **主要使用以下演算法**  
