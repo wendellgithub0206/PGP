@@ -11,7 +11,7 @@ guiding mentor:[林世崧](https://github.com/pccusslin0629 "link")
 * [機械手臂](https://github.com/wendellgithub0206/PGP/tree/main/%E6%A9%9F%E6%A2%B0%E6%89%8B%E8%87%82%E6%8E%A7%E5%88%B6 "link")
 ## 棋藝演算法
 **主要使用以下演算法**  
-* 蒙地卡羅樹搜尋（MCTS）
+* 蒙地卡羅樹搜尋（MCTS）<br/>
 評估：<br/>
 	取得策略以及局是價值，策略用來計算出PUCT中棋步的機率分布，而局是價值則慧用來更新PUCT中的累計價值。<br/>
 擴充：<br/>
