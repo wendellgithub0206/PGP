@@ -16,7 +16,7 @@ guiding mentor:[林世崧](https://github.com/pccusslin0629 "link")
 * 強化式學習<br/>
 以大量資料為基礎的監督式學習非監督式學習不同，期目的是為了在特定環境中採取適當的動作。比如自動駕駛就是強化式學習的應用。 
 強化式學習(Reinforcement learning)是透過代理人(agent)根據環境狀態(environment)採取動作(action)已獲得更多回饋值(reward)的方法，此法與監督非監督式學習不同，在於不依靠訓練資料，只靠代理人本身已試誤法來進行學習。<br/>
-
+![image](https://github.com/wendellgithub0206/PGP/blob/main/%E6%AE%98%E5%B7%AE%E7%B6%B2%E8%B7%AF.png)
 * 卷積層網路<br/>
 
 * 殘差網路(ResNet) <br/>
